@@ -1,4 +1,9 @@
 # Sleep Health and Lifestyle Analysis
+Group - 9
+Laasya Priya Vemuri - A20561469
+Arundathi Nalla - A20549875
+Swathi Yadlapalli - A20545355
+Dinesh Datta Molli - A20548385
 
 This repository contains a Python-based machine learning pipeline to analyze sleep health and lifestyle data. The pipeline includes data preprocessing, visualization, dimensionality reduction, clustering, classification, and model evaluation techniques.
 
